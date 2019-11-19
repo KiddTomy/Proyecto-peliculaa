@@ -11,13 +11,13 @@
     width: 100%;
     height:600px;
     grid-column: 1/4;
-    background-image: url("../Img/P.jpg");
+    background-image: url("../Img/p.jpg");
     background-color: aqua;
     color: black;
     margin-left: 0%;
 }
 
-.Sinopsis{ 
+.sinopsis{ 
     overflow: hidden;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     grid-column: 2/4;
